@@ -1,3 +1,9 @@
+/*
+ * @Author: zhuyinghui
+ * @Date: 2020-07-05 01:54:58
+ * @Last Modified by:   zhuyinghui
+ * @Last Modified time: 2020-07-05 01:54:58
+ */
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 

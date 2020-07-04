@@ -1,3 +1,9 @@
+/*
+ * @Author: zhuyinghui
+ * @Date: 2020-07-05 01:55:42
+ * @Last Modified by:   zhuyinghui
+ * @Last Modified time: 2020-07-05 01:55:42
+ */
 import axios from 'axios'
 import { Message, Spin } from 'view-design'
 import domain from '@/config/domain'
