@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import headComponent from '@/components/headComponent/index'
+import headComponent from '@/components/head_component/index'
 export default {
   name: 'App',
   components: {

@@ -3,7 +3,7 @@
     font-family: myFirstFont;
     src: url(../font/1.ttf);
 }
-#app{
+.common-app{
     @import url(./reset.scss);
     font-family: myFirstFont;
 }
