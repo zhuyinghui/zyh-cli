@@ -1,3 +1,9 @@
+/*
+ * @Author: zhuyinghui
+ * @Date: 2020-07-11 23:06:00
+ * @Last Modified by:   zhuyinghui
+ * @Last Modified time: 2020-07-11 23:06:00
+ */
 <template>
     <div class="i-quill" :class="classes">
         <div ref="editor" :style="styles"></div>

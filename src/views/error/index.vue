@@ -1,7 +1,5 @@
 <template>
-  <div class="about">
-    about页面
-  </div>
+  <div>404</div>
 </template>
 
 <script>

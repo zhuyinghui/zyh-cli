@@ -1,9 +1,18 @@
 @font-face
 {
     font-family: myFirstFont;
-    src: url(../font/1.ttf);
+    src: url(../../static/font/1.ttf);
 }
-.common-app{
-    @import url(./reset.scss);
-    font-family: myFirstFont;
+html  {
+    height: 100%;
+    min-width: 650px;
+    body {
+        height: 100%;
+        width: 100%;
+        .common-app{
+            height: 100%;
+            @import url(./reset.scss);
+            font-family: myFirstFont;
+        }
+    }
 }
